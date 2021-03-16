@@ -6,8 +6,8 @@ A continuación dejamos disponibles todos los recursos utilizados durante ambas 
 
 <i class="fab fa-github"></i>  **Acceso a los repositorios de Github**
 
-> Repositorio del servicio de **Farmacia** ([aquí](https://github.com/wearearima/farmacia-demo-med-202103){:target="_blank"}).  
-> Repositorio del servicio de **Almacen** ([aquí](https://github.com/wearearima/almacen-demo-med-202103){:target="_blank"}).
+> Repositorio del servicio de **Farmacia** ([aquí](https://github.com/wearearima/farmacia-demo-bed-202103){:target="_blank"}).  
+> Repositorio del servicio de **Almacen** ([aquí](https://github.com/wearearima/almacen-demo-bed-202103){:target="_blank"}).
 
 <i class="fas fa-desktop"></i> **Acceso a las transparencias en PDF**
 
