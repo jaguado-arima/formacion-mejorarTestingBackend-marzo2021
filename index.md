@@ -11,8 +11,8 @@ A continuación dejamos disponibles todos los recursos utilizados durante ambas 
 
 <i class="fas fa-desktop"></i> **Acceso a las transparencias en PDF**
 
-> Transparencias del día 1 ([aquí](https://drive.google.com/file/d/1VvkB2N5h8Nl8yZZRs2S9jzKEIlnPZ6h3/view?usp=sharing){:target="_blank"}).  
-> Transparencias del día 2 ([aquí](https://drive.google.com/file/d/12EDMrugEFCaM1MnfLjUq7RYIfxat_NoZ/view?usp=sharing){:target="_blank"}).
+> Transparencias del día 1 ([aquí](https://drive.google.com/file/d/18S5MIy_aD67cr7Hl4zMipDon-caQ1gMx/view?usp=sharing){:target="_blank"}).  
+> Transparencias del día 2 ([aquí](https://drive.google.com/file/d/1osOVw8WTrfeq2vLj2O3xZJF6BUYZ_jIw/view?usp=sharing){:target="_blank"}).
 
 ## Enlaces de interés
 
