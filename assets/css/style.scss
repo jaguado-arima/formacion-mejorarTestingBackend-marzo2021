@@ -1,0 +1,98 @@
+---
+---
+$max-width: 800px;
+
+@import "fonts/gotham";
+@import "{{ site.theme }}";
+
+
+body, h1, h2, h3, h4, h5, h6, th {
+    font-family: gotham_light, Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: gothambook;
+}
+
+h1 {
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 28px;
+  }
+
+  h3 {
+    font-size: 24px;
+  }
+
+  h4 {
+    font-size: 20px;
+  }
+
+  h5 {
+    font-size: 18px;
+  }
+
+  h6 {
+    font-size: 16px;
+  }
+
+table tr td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+#arimaLogo {
+    display: block;
+    position: absolute;
+    top:0;
+    right: 10px;
+    z-index: 10;
+}
+
+#arimaSello {
+    display: block;
+    
+}
+
+#arimaLogoImage {
+    position: relative;
+    margin: 0 auto;
+    max-width: 200px;
+    border: none;
+    box-shadow: none;
+}
+
+#arimaSelloImage {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border: none;
+    box-shadow: none;
+    transform: translate(-50%,0%);
+}
+
+#project_title {
+    margin-top: 1.5em !important;
+    line-height: 1.2em !important;
+}
+
+#project_title a {
+  color: #ffffff !important;
+}
+
+#header_wrap .inner {
+    padding-bottom: 10px;
+}
+
+.inner {
+  max-width: $max-width;
+}
+
+
+
+#main_content_wrap {
+    background: #ffffff;
+}
